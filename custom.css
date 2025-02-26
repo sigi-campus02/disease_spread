@@ -1,0 +1,71 @@
+div.title {
+    background-color: #336699;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+h1.custom-title {
+    font-size: 28px;
+}
+
+p.subtitle {
+    font-size: 20px;
+}
+
+h2.custom-title {
+    background-color: #4F81BD; 
+    color: white;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+h3.custom-title {
+    background-color: #5A9BD5; 
+    color: white;
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+h4.custom-title {
+    background-color: #B8CCE4; 
+    color: black; 
+    font-size: 18px;
+    padding: 6px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+div.angabe-text {
+    background-color: #f5f5f5;
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 15px;
+    border-left: 4px solid #cccccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+div.antwort-text {
+    background-color: #eef7ff;
+    color: #4a4a4a;
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 15px;
+    border-left: 4px solid #4a90e2;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+div.antwort-text ul {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+div.antwort-text li {
+    margin-bottom: 8px;
+}
